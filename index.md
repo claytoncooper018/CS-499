@@ -10,7 +10,7 @@ Welcome to my professional ePortfolio, developed as the capstone project for my 
 ## Navigation
 
 - [Professional Self-Assessment](self-assessment.md)
-- [Code Review Video](#code-review)
+- [Code Review Video](https://www.youtube.com/watch?v=BbhZ6SJf5pY)
 - [Original Artifact (CS 360, pre-enhancement)](#) <!-- TODO: link to your CS 360 repo/commit here -->
 - [Enhancement One: Software Design & Engineering](narrative-software-design.md) — [source](src/main/java/com/example/inventoryapp/PasswordUtils.java)
 - [Enhancement Two: Algorithms & Data Structures](narrative-algorithms.md) — [source](src/main/java/com/example/inventoryapp/InventorySearchUtils.java)
