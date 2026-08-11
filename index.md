@@ -18,8 +18,7 @@ Welcome to my professional ePortfolio, developed as the capstone project for my 
 
 ## Code Review
 
-<!-- TODO: upload Video_Recording__1_.mov to YouTube (unlisted is fine), then replace this line -->
-[Watch my code review](#)
+[Watch my code review](https://www.youtube.com/watch?v=BbhZ6SJf5pY)
 
 ## Full Source
 
