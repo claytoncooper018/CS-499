@@ -22,7 +22,8 @@ Welcome to my professional ePortfolio, developed as the capstone project for my 
 
 ## Full Source
 
-All enhanced source files (`*.java`) and unit tests (`*Test.java`) are in the [repository root](https://github.com/claytoncooper018/CS-499).
+- Enhanced source: [Clayton_Cooper_InventoryApp_EnhancedSource.zip](Clayton_Cooper_InventoryApp_EnhancedSource.zip)
+- Unit tests: [Clayton_Cooper_InventoryApp_Tests.zip](Clayton_Cooper_InventoryApp_Tests.zip)
 
 ## About This ePortfolio
 
