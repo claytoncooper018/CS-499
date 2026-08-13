@@ -22,8 +22,7 @@ Welcome to my professional ePortfolio, developed as the capstone project for my 
 
 ## Full Source
 
-- [Enhanced source (`src/main`)](src/main/java/com/example/inventoryapp/)
-- [Unit tests (`src/test`)](src/test/java/com/example/inventoryapp/)
+All enhanced source files (`*.java`) and unit tests (`*Test.java`) are in the [repository root](https://github.com/claytoncooper018/CS-499).
 
 ## About This ePortfolio
 
